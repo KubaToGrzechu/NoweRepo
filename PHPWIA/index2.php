@@ -5,9 +5,11 @@
     <title></title>
   </head>
   <body>
-    
+
     <?php
 
+    $imie = "janusz";
+    echo $imie;
      ?>
 
   </body>
